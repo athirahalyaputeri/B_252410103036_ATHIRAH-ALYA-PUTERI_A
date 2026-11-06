@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\tes\tes\bin\Debug\net10.0\B_252410103036_ATHIRAH ALYA PUTERI_A.exe
+C:\Users\USER\source\repos\tes\tes\bin\Debug\net10.0\B_252410103036_ATHIRAH ALYA PUTERI_A.deps.json
+C:\Users\USER\source\repos\tes\tes\bin\Debug\net10.0\B_252410103036_ATHIRAH ALYA PUTERI_A.runtimeconfig.json
+C:\Users\USER\source\repos\tes\tes\bin\Debug\net10.0\B_252410103036_ATHIRAH ALYA PUTERI_A.dll
+C:\Users\USER\source\repos\tes\tes\bin\Debug\net10.0\B_252410103036_ATHIRAH ALYA PUTERI_A.pdb
+C:\Users\USER\source\repos\tes\tes\obj\Debug\net10.0\B_252410103036_ATHIRAH ALYA PUTERI_A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\tes\tes\obj\Debug\net10.0\B_252410103036_ATHIRAH ALYA PUTERI_A.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\tes\tes\obj\Debug\net10.0\B_252410103036_ATHIRAH ALYA PUTERI_A.AssemblyInfo.cs
+C:\Users\USER\source\repos\tes\tes\obj\Debug\net10.0\B_252410103036_ATHIRAH ALYA PUTERI_A.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\tes\tes\obj\Debug\net10.0\B_252410103036_ATHIRAH ALYA PUTERI_A.dll
+C:\Users\USER\source\repos\tes\tes\obj\Debug\net10.0\refint\B_252410103036_ATHIRAH ALYA PUTERI_A.dll
+C:\Users\USER\source\repos\tes\tes\obj\Debug\net10.0\B_252410103036_ATHIRAH ALYA PUTERI_A.pdb
+C:\Users\USER\source\repos\tes\tes\obj\Debug\net10.0\B_252410103036_ATHIRAH ALYA PUTERI_A.genruntimeconfig.cache
+C:\Users\USER\source\repos\tes\tes\obj\Debug\net10.0\ref\B_252410103036_ATHIRAH ALYA PUTERI_A.dll
+C:\Users\USER\source\repos\tes\tes\obj\Debug\net10.0\B_252410.51CAC1AE.Up2Date
